@@ -1,4 +1,4 @@
-# LUGBook Index
+# Index
 ---
 
 * ## [Articles](articles/index.html)
