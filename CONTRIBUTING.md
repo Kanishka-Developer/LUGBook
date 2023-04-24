@@ -17,6 +17,8 @@
 
 ### Format your posts according to the template below.
 
+### Add your post to the index file of the folder it is in.
+
 ### All posts must be written in English.
 
 ### Keep the folder name as consise as possible. For example, `how-to-exit-vim` instead of `how-to-exit-vim-from-insert-mode`. Your post title may be as long as required.
@@ -26,19 +28,22 @@
 ```
 lugbook
     ├───articles
-    │   └───article-name
-    │       ├───main.md
-    │       └───img.png
+    │   ├───article-name
+    │   │   ├───main.md
+    │   │   └───img.png
+    │   └───index.md
     ├───guides
-    │   └───how-to-do-something
-    │       ├───main.md
-    │       ├───img1.png
-    │       └───img2.png
+    │   ├───how-to-do-something
+    │   │   ├───main.md
+    │   │   ├───img1.png
+    │   │   └───img2.png
+    │   └───index.md
     └───reviews
-        └───distro-version
-            ├───main.md
-            ├───img1.png
-            └───img2.png
+        ├───distro-version
+        │   ├───main.md
+        │   ├───img1.png
+        │   └───img2.png
+        └───index.md
 ```
 
 ## Standard Template for Posts
