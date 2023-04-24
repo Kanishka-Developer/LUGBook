@@ -9,9 +9,10 @@ The resource is easily available [online](https://kanishka-developer.github.io/L
 
 ### Index
 
-* [Articles](articles/index.html)
-* [Guides](guides/index.html)
-* [Reviews](reviews/index.html)
+* [Articles](articles/)
+* [Guides](guides/)
+* [Reviews](reviews/)
+
 ## Contributing
 
 If you would like to contribute to this project, please read the [contributing guidelines](CONTRIBUTING.html).
