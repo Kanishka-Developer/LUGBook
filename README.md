@@ -9,7 +9,7 @@ The resource is easily available [online](https://kanishka-developer.github.io/L
 
 ## Contributing
 
-If you would like to contribute to this project, please read the [contributing guidelines](CONTRIBUTING.md).
+If you would like to contribute to this project, please read the [contributing guidelines](CONTRIBUTING.html).
 
 ## License
 
