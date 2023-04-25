@@ -1,7 +1,7 @@
 # Reviews
 ---
 
-## [Manjaro 22.1](manjaro-22.1/main.html)
+* ## [Manjaro 22.1](manjaro-22.1/)
 
 ---
-### [Go back to Index](../)
+### [Return to Home](../)

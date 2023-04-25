@@ -5,11 +5,13 @@
 
 ### All posts must be placed in the proper folder: `articles` for Linux news, `guides` for guides, and `reviews` for distro reviews.
 
-### All posts must be named in lowercase with hyphens instead of spaces.
+### All post folders must be named in lowercase with hyphens instead of spaces.
 
-### All posts must be named `main.md`.
+### All posts must be named `index.md`.
 
 ### All posts should preferably have at least one image. Alternatively, ASCII art is also acceptable.
+
+### Images should preferably be embedded from an external source.
 
 ### Any videos should only be public YouTube embeds.
 

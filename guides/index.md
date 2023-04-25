@@ -1,7 +1,7 @@
 # Guides
 ---
 
-## [How to exit vim](how-to-exit-vim/main.html)
+* ## [How to exit vim](how-to-exit-vim/)
 
 ---
-### [Go back to Index](../)
+### [Return to Home](../)

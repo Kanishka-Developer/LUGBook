@@ -1,7 +1,7 @@
 # Articles
 ---
 
-## [OpenWrt 22.03.4 Released](openwrt-22.03.4-released/main.html)
+* ## [OpenWrt 22.03.4 Released](openwrt-22.03.4-released/)
 
 ---
-### [Go back to Index](../)
+### [Return to Home](../)
