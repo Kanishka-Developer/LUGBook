@@ -31,18 +31,18 @@
 lugbook
     ├───articles
     │   ├───article-name
-    │   │   ├───main.md
+    │   │   ├───index.md
     │   │   └───img.png
     │   └───index.md
     ├───guides
     │   ├───how-to-do-something
-    │   │   ├───main.md
+    │   │   ├───index.md
     │   │   ├───img1.png
     │   │   └───img2.png
     │   └───index.md
     └───reviews
         ├───distro-version
-        │   ├───main.md
+        │   ├───index.md
         │   ├───img1.png
         │   └───img2.png
         └───index.md
@@ -77,4 +77,6 @@ Content 2
 ---
 #### Editor's Note: Editor's Note
 
+---
+### [Return to Index](../)
 ```

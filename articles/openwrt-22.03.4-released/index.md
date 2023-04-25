@@ -82,3 +82,6 @@ Sysupgrade can be used to upgrade a device from OpenWrt 21.02 or 22.03 to
 
 ### Known Issues
 * [#12232](https://github.com/openwrt/openwrt/issues/12232) Linksys MR8300 may break after the update, wait for the next service release!
+
+---
+### [Return to Index](../)

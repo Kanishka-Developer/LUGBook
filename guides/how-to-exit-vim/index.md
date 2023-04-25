@@ -23,3 +23,6 @@ Press `Esc` and then type `:q!` and press `Enter`.
 ## To save changes and exit vim
 
 Press `Esc` and then type `:wq` and press `Enter`.
+
+---
+### [Return to Index](../)
