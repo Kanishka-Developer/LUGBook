@@ -82,4 +82,4 @@ Content 2
 ```
 
 ---
-### [Return to Home](../)
+### [Return to Home](https://kanishka-developer.github.io/LUGBook/)
