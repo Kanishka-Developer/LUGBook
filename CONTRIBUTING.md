@@ -80,3 +80,6 @@ Content 2
 ---
 ### [Return to Index](../)
 ```
+
+---
+### [Return to Home](../)
