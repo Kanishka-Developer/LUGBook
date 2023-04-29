@@ -47,4 +47,3 @@ Manjaro is ***not*** a distro a new-to-Linux user should be using. Other distros
 
 ---
 ### [Return to Index](../)
----
