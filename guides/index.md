@@ -1,7 +1,7 @@
 # Guides
 ---
 
-* ## [How to exit vim](how-to-exit-vim/)
+* ## [How to exit Vim](how-to-exit-vim/)
 * ## [Pentesting tools](pentesting-tools/)
 
 ---
