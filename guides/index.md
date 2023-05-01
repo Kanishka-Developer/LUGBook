@@ -1,7 +1,8 @@
 # Guides
 ---
 
-* ## [How to exit Vim](how-to-exit-vim/)
+* ## [How to exit vim](how-to-exit-vim/)
+* ## [Prerequisites to Dual-boot](dual-boot-prerequisites/)
 
 ---
 ### [Return to Home](../)
