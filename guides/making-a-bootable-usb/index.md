@@ -32,31 +32,28 @@ We will be using BalenaEtcher for doing this.
 
 - Open BalenaEtcher :
   
-  ![Imgur Image](https://imgur.com/G2UcaBM.png)
-  
-  
-  
-  
+  ![Image](/Images/Step1.png)
 
 - Choose an ISO image : 
   
-  ![Imgur Image](https://imgur.com/V1vWpZi.png)
+  ![Image](/Images/Step2.png)
 
 - Then choose an USB drive : 
   
-  ![Imgur Image](https://imgur.com/Pj6kJ2I.png)
+  ![Image](/Images/Step3.png)
 
 - After confirming that the details are correct, click on 'Flash!' :
   
-  ![Imgur Image](https://imgur.com/fDtbQXd.png)
+  ![Image](/Images/Step4.png)
 
 - Wait for the BalenaEtcher to finish flashing the USB drive :
   
-  ![Imgur Image](https://imgur.com/9NFmEmK.png)
+  ![Image](/Images/Step5.png)
 
 - And congrats! The USB drive is now a bootable drive with the ISO of the distro you want
   
-  ![Imgur Image](https://imgur.com/P6lMTXJ.png)
+  ![Image](/Images/Step6.png)
 
 ---
+
 ### [Return to Index](../)
