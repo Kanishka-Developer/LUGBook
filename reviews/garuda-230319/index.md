@@ -1,6 +1,8 @@
 # Garuda Linux: A Comprehensive Review
 ---
 
+![Garuda Logo](./garuda-logo.png)
+
 Garuda Linux is a relatively new Linux distribution that was first released in 2020. It is being developed by [🇮🇳] *Shrinivas Vishnu Kumbhar* and [🇩🇪] *SGS*. Garuda refers to the vahana of Vishnu in Hindu mythology.
 
 It is based on the Arch Linux distribution and aims to provide a user-friendly and aesthetically pleasing experience for users. The developers of Garuda Linux have put a lot of effort into making the distribution easy to use and accessible to both new and experienced users. It uses [systemd](https://en.wikipedia.org/wiki/Systemd) as the [init system](https://en.wikipedia.org/wiki/Init).
