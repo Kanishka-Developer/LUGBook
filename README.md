@@ -7,11 +7,11 @@ This repository serves as a collection of resources written by LUGVITC members a
 
 The resource is easily available [online](https://kanishka-developer.github.io/LUGBook/) and on our app.
 
-### Index
+## Index
 
-* [Articles](articles/)
-* [Guides](guides/)
-* [Reviews](reviews/)
+* ### [Articles](articles/)
+* ### [Guides](guides/)
+* ### [Reviews](reviews/)
 
 ## Contributing
 
