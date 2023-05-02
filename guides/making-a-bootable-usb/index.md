@@ -13,12 +13,15 @@ We will be using BalenaEtcher for doing this.
 ## Installation
 
 - BalenaEtcher can be downloaded from their website (https://www.balena.io/etcher).
+
 - It is also avaiable in the AUR(Arch User Repository) and winget(Windows Package Manager).
+
 - ## For Arch :
   
   ```
   yay -S balena-etcher
   ```
+
 - ## For Windows :
   
   ```
@@ -28,25 +31,32 @@ We will be using BalenaEtcher for doing this.
 ## Creating a Bootable USB :
 
 - Open BalenaEtcher :
-
-![ScreenShot](/Images/Step1.png)
+  
+  ![Imgur Image](https://imgur.com/G2UcaBM.png)
+  
+  
+  
+  
 
 - Choose an ISO image : 
   
-  ![ScreenShot](/Images/Step2.png)
+  ![Imgur Image](https://imgur.com/V1vWpZi.png)
 
 - Then choose an USB drive : 
   
-  ![ScreenShot](/Images/Step3.png)
+  ![Imgur Image](https://imgur.com/Pj6kJ2I.png)
 
 - After confirming that the details are correct, click on 'Flash!' :
   
-  ![ScreenShot](/Images/Step4.png)
+  ![Imgur Image](https://imgur.com/fDtbQXd.png)
 
 - Wait for the BalenaEtcher to finish flashing the USB drive :
   
-  ![ScreenShot](/Images/Step5.png)
+  ![Imgur Image](https://imgur.com/9NFmEmK.png)
 
 - And congrats! The USB drive is now a bootable drive with the ISO of the distro you want
   
-  ![ScreenShot](/Images/Step6.png)
+  ![Imgur Image](https://imgur.com/P6lMTXJ.png)
+
+---
+### [Return to Index](../)
