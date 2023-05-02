@@ -1,6 +1,8 @@
 # Linux Mint: A Comprehensive Review
 ---
 
+![Mint Logo](./mint-logo.png)
+
 Mint is a Linux operating system based on the latest Ubuntu LTS version (22.04 LTS at the time of writing - which makes the current Mint release supported until '25).It is one of the most popular and user-facing distros, and is an excellent choice for beginners who want a hassle-free experience with Linux.
 
 Mint's set of apps, known as the X-Apps, are usually forked from the GNOME apps. Nemo, the Cinnamon file manager, is forked from the Gnome File Manager [Files](https://wiki.gnome.org/Apps/Files) (formerly known as _Nautilus_). Nemo has features such as bulk renaming and disk space indicators.
