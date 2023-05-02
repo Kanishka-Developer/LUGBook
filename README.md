@@ -1,5 +1,6 @@
 # LUGBook
 ---
+![Linux Image](./linux-logo.png)
 
 ## The LUGVITC Open Source E-Book Project
 
