@@ -12,7 +12,7 @@ We will be using BalenaEtcher for doing this.
 
 ## Installation
 
-- BalenaEtcher can be downloaded from their website (https://www.balena.io/etcher).
+- BalenaEtcher can be [downloaded](https://www.balena.io/etcher) from their website.
 
 - It is also avaiable in the AUR(Arch User Repository) and winget(Windows Package Manager).
 
