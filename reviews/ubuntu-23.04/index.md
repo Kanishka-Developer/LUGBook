@@ -1,7 +1,7 @@
 # Ubuntu: A review
 ---
 
-![Ubuntu Logo](./ubuntu-logo-2022.png)
+![Ubuntu Logo](./ubuntu-logo.png)
 
 Ubuntu is one of the most popular and widely used Linux distributions in the world. It is an open source operating system that runs on desktops, servers, cloud and IoT devices. It is based on Debian and offers a user-friendly and customizable interface, a large and diverse software repository, and a strong and supportive community.
 
