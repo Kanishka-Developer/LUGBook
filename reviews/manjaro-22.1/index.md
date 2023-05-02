@@ -1,6 +1,8 @@
 # Manjaro: A Comprehensive Review
 ---
 
+![Manjaro Logo](./manjaro-logo.png)
+
 As someone who has used Manjaro as my primary development OS, It is quite stable, customizable and easy to use. Manjaro is a rolling-release Linux distribution that aims to make Arch Linux more user-friendly. It follows a rolling-release model, meaning that current users do not need to reinstall unless their current installation is broken.
 
 ## User Interface

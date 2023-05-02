@@ -1,6 +1,8 @@
 # Fedora: A Comprehensive Review
 ---
 
+![Fedora Logo](./fedora-logo.png)
+
 Fedora is an open-source operating system free for everyone to use. The developers emphasize that their main goal is to create an OS that will make things easy for the users, but be reliable and useful at the same time. Fedora has a history of providing mainly free software in its default repos (like a lot of distributions).
 Whether you are looking for a desktop,server,cloud,IoT or container platform, Fedora has you covered.
 
