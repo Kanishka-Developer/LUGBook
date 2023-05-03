@@ -1,8 +1,6 @@
 # Garuda Linux: A Comprehensive Review
 ---
 
-![Garuda Logo](./garuda-logo.png)
-
 Garuda Linux is a relatively new Linux distribution that was first released in 2020. It is being developed by [🇮🇳] *Shrinivas Vishnu Kumbhar* and [🇩🇪] *SGS*. Garuda refers to the vahana of Vishnu in Hindu mythology.
 
 It is based on the Arch Linux distribution and aims to provide a user-friendly and aesthetically pleasing experience for users. The developers of Garuda Linux have put a lot of effort into making the distribution easy to use and accessible to both new and experienced users. It uses [systemd](https://en.wikipedia.org/wiki/Systemd) as the [init system](https://en.wikipedia.org/wiki/Init).
@@ -24,6 +22,7 @@ Features of Garuda include:
 
     Garuda Linux offers several customized desktop environments, including KDE Plasma, GNOME, Xfce, and LXQt. Each desktop environment has been customized to provide a unique and aesthetically pleasing experience.
 
+![Garuda's customised KDE](./KDE.jpeg)
 - Performance optimizations: 
 
     Garuda Linux includes several performance optimizations out of the box, such as the use of the Zstandard compression algorithm and the BFQ I/O scheduler.
