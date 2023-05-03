@@ -1,9 +1,9 @@
 # Ubuntu: A review
 ---
-
+![Ubuntu logo](../images/Ubuntu/ubuntu-logo-2022.png)
 Ubuntu is one of the most popular and widely used Linux distributions in the world. It is an open source operating system that runs on desktops, servers, cloud and IoT devices. It is based on Debian and offers a user-friendly and customizable interface, a large and diverse software repository, and a strong and supportive community.
 
-![Ubuntu GNOME](https://i0.wp.com/9to5linux.com/wp-content/uploads/2023/04/lk63u.webp?fit=1920%2C975&ssl=1)
+![Ubuntu GNOME](../images/Ubuntu/GNOME.jpeg)
 
 Anyone can access Ubuntu and enjoy its features without paying any fees or licenses. Ubuntu also provides regular updates every six months that bring new features, security patches and bug fixes to the users. Additionally, Ubuntu has a long term support (LTS) version that receives five years of security and maintenance updates, which is ideal for users who prefer stability and reliability over novelty.
 

@@ -16,15 +16,15 @@ Mint consists of:
 
 It comes with 3 flavours:
 - Cinnamon:
-![](https://i0.wp.com/9to5linux.com/wp-content/uploads/2022/12/lm211b.webp?resize=1400%2C800&ssl=1)
+![](../images/Mint/Cinnamon.jpeg)
     This is the most popular Cinnamon DE, being developed by the Mint team itself. It is lightweight, fast and stable. The Cinnamon desktop is GTK-based and can be themed. It has support for applets and widgets.Cinnamon is the _flagship_ DE that Mint offers. It strives to offer a balance between simplicity, performance and functionality.
 
 - MATE:
-![](https://i0.wp.com/9to5linux.com/wp-content/uploads/2022/07/lm21m.webp?w=1860&ssl=1)
+![](../images/Mint/mate.jpeg)
     MATE is a desktop environment that was designed to serve as the continuation of Gnome 2. Several Gnome2 apps have been forked from to create the MATE apps. The MATE edition of Mint is classic and traditional, faster, lighter and more stable than Cinnamon, but development is generally slower and feature releases are fewer.
 
 - XFCE:
-![](https://i0.wp.com/9to5linux.com/wp-content/uploads/2022/07/lm21x.webp?w=1860&ssl=1)
+![](../images/Mint/xfce.jpeg)
     XFCE is a very lightweight desktop environment, designed to run even on low-end computers.Linux Mint Xfce edition is a solid, stable, and user-friendly operating system that can suit the needs of most users who want a lightweight and efficient desktop. It is especially recommended for older or low-powered systems or for users who prefer a simple and efficient desktop.
 
 In conclusion,

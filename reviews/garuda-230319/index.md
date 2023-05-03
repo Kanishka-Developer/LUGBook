@@ -22,7 +22,7 @@ Features of Garuda include:
 
     Garuda Linux offers several customized desktop environments, including KDE Plasma, GNOME, Xfce, and LXQt. Each desktop environment has been customized to provide a unique and aesthetically pleasing experience.
 
-![Garuda's customised KDE](https://forum.garudalinux.org/uploads/default/original/2X/8/8700125a41853768877115788839f541759a9bc5.jpeg)
+![Garuda's customised KDE](../images/Garuda/KDE.jpeg)
 - Performance optimizations: 
 
     Garuda Linux includes several performance optimizations out of the box, such as the use of the Zstandard compression algorithm and the BFQ I/O scheduler.
