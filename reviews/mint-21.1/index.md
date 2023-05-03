@@ -1,11 +1,9 @@
 # Linux Mint: A Comprehensive Review
 ---
 
-![Mint Logo](./mint-logo.png)
-
 Mint is a Linux operating system based on the latest Ubuntu LTS version (22.04 LTS at the time of writing - which makes the current Mint release supported until '25).It is one of the most popular and user-facing distros, and is an excellent choice for beginners who want a hassle-free experience with Linux.
 
-Mint's set of apps, known as the X-Apps, are usually forked from the GNOME apps. Nemo, the Cinnamon file manager, is forked from the Gnome File Manager [Files](https://wiki.gnome.org/Apps/Files) (formerly known as _Nautilus_). Nemo has features such as bulk renaming and disk space indicators.
+Mint's set of apps, known as the X-Apps, are usually forked from the GNOME apps. Nemo, the Cinnamon file manager, is forked from the Gnome File Manager [Files](https://wiki.gnome.org/Apps/Files) (formerly known as Nautilus). Nemo has features such as bulk renaming and disk space indicators.
 
 Mint consists of:
 - A new file manager called Nemo that supports file pinning, bulk renaming, disk space indicators, and more.
@@ -18,20 +16,20 @@ Mint consists of:
 
 It comes with 3 flavours:
 - Cinnamon:
-
-    This is the most popular Cinnamon DE, being developed by the Mint team itself. It is lightweight, fast and stable. The Cinnamon desktop is GTK-based and can be themed. It has support for _applets_ and widgets.Cinnamon is the __flagship__ DE that Mint offers. It strives to offer a balance between simplicity, performance and functionality.
+![](https://i0.wp.com/9to5linux.com/wp-content/uploads/2022/12/lm211b.webp?resize=1400%2C800&ssl=1)
+    This is the most popular Cinnamon DE, being developed by the Mint team itself. It is lightweight, fast and stable. The Cinnamon desktop is GTK-based and can be themed. It has support for applets and widgets.Cinnamon is the _flagship_ DE that Mint offers. It strives to offer a balance between simplicity, performance and functionality.
 
 - MATE:
-
+![](https://i0.wp.com/9to5linux.com/wp-content/uploads/2022/07/lm21m.webp?w=1860&ssl=1)
     MATE is a desktop environment that was designed to serve as the continuation of Gnome 2. Several Gnome2 apps have been forked from to create the MATE apps. The MATE edition of Mint is classic and traditional, faster, lighter and more stable than Cinnamon, but development is generally slower and feature releases are fewer.
 
 - XFCE:
-
+![](https://i0.wp.com/9to5linux.com/wp-content/uploads/2022/07/lm21x.webp?w=1860&ssl=1)
     XFCE is a very lightweight desktop environment, designed to run even on low-end computers.Linux Mint Xfce edition is a solid, stable, and user-friendly operating system that can suit the needs of most users who want a lightweight and efficient desktop. It is especially recommended for older or low-powered systems or for users who prefer a simple and efficient desktop.
 
 In conclusion,
 
-Mint is the perfect distro for beginners, but is not preferred by advanced users who prefer to tweak and hack their _window managers_.
+Mint is the perfect distro for beginners, but is not preferred by advanced users who prefer to tweak and hack their window managers.
 
 ---
 ### [Return to Index](../)
