@@ -3,7 +3,7 @@
 
 VanillaOS is a relatively new operating system that has been gaining attention in the tech community. It is a free and open-source operating system that is designed to be lightweight and fast, with a simple user interface. VanillaOS is built on top of the Linux kernel and is compatible with a wide range of hardware.
 
-![](../images/Vanilla/GNOME.svg)
+![](./GNOME.svg)
 One of the most significant advantages of VanillaOS is its simplicity. The interface is clean and uncluttered, with a focus on ease of use. The design of the user interface is reminiscent of the classic Mac OS, with a dock at the bottom of the screen and a simple menu bar at the top. The simplicity of VanillaOS makes it a great option for users who are new to Linux or who prefer a more straightforward user interface.
 
 VanillaOS uses [distrobox](https://distrobox.privatedns.org) and its in-house [apx](https://documentation.vanillaos.org/docs/apx/) to install, update and remove packages.

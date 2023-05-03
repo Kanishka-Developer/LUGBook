@@ -1,6 +1,6 @@
 # Fedora: A Comprehensive Review
 ---
-![Fedora logo](../images/Fedora/Fedora_logo_(2021).svg.png)
+![Fedora logo](./Fedora_logo_(2021).svg.png)
 
 Fedora is an open-source operating system free for everyone to use. The developers emphasize that their main goal is to create an OS that will *make things easy* for the users, but be reliable and useful at the same time. Fedora has a history of providing mainly **free software** in its default repos (like a lot of distributions).
 
@@ -11,7 +11,7 @@ It's a community-driven distro with sponsoring from RedHat (now a subsidiary of 
 Fedora is known for its innovation and experimentation, often leading the way in introducing new features/technologies that later become adopted by other distros. Examples include Gnome3, systemd, btrfs and the like. Fedora is also one of the first distros to ship the latest Gnome 44 desktop environment.
 Fedora also ships the default (vanilla) versions of the desktop environments (especially GNOME), something that has become quite uncommon in recent times.
 
-![GNOME on Fedora](../images/Fedora/Fedora_GNOME.png)
+![GNOME on Fedora](./Fedora_GNOME.png)
 
 Packages get updated *more frequently* than stable distros like Ubuntu/Debian, and less frequently than rolling distros like Arch and Gentoo. It's an excellent choice for users who don't want super-fresh packages, but don't want to stay on old ones either. This provides the excitement of having new packages every now and then. It also includes security features such as [`SELinux`](https://www.redhat.com/en/topics/linux/what-is-selinux) and [`firewalld`](https://firewalld.org).
 

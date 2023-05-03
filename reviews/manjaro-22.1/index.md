@@ -13,14 +13,14 @@ Manjaro has a vibrant and active community, which is one of its biggest strength
 Manjaro has 3 official editions:
 * Gnome
 
-![](../images/Manjaro/GNOME.jpg)
+![](./GNOME.jpg)
 
 The GNOME desktop environment itself is highly customizable, and Manjaro GNOME also comes with a few additional customization options. Users can use the GNOME Tweak tool to customize various aspects of their desktop, including the layout, fonts, icons, and more.
 The recommended system requirements for Manjaro GNOME are 1 GB RAM and a 1 GHz processor, which makes it a great choice for users with older computers.I found it to be snappy and responsive, even when running multiple applications at once.
 
 * KDE:
 
-![](../images/Manjaro/KDE.jpeg)
+![](./KDE.jpeg)
 
 Manjaro KDE comes with the latest version of the KDE Plasma desktop environment, which is known for its modern and customizable design. The interface is intuitive, *quite* Windows-like and easy to navigate, and users can customize the look and feel of their desktop using the built-in KDE customization options. Manjaro KDE also comes with a few additional applications, including Krita for digital drawing and Kdenlive for video editing.
 
@@ -28,7 +28,7 @@ Customization Manjaro KDE provides users with a high degree of customization opt
 
 * XFCE:
 
-![](../images/Manjaro/XFCE.jpeg)
+![](./XFCE.jpeg)
 
 
 Manjaro XFCE is the most resource-efficient of the three official editions. XFCE is a light and customizable desktop. It is GTK-based, like GNOME, but includes minimal software out of the box. It is modular and includes apps such as Thunar (file manager) and Catfish (file searcher). XFCE apps are known to not contain too many dependencies[^1], making them [worth installing] even in other DEs and WMs.
