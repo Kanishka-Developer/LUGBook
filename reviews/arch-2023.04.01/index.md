@@ -1,6 +1,8 @@
 # Arch Linux: A Comprehensive Review
 ---
 
+![Arch Logo](./arch-logo.png)
+
 Arch Linux is a lightweight and flexible Linux distribution that focuses on simplicity, customization, and cutting-edge software. In this review, we'll dive deep into the pros and cons of using Arch Linux as your go-to operating system.
 
 ## The Good
