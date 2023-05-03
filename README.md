@@ -6,7 +6,7 @@
 
 This repository serves as a collection of resources written by LUGVITC members and other contributors. The goal of this project is to create a free, open source, and community-driven e-book that can be used as a resource for both new and experienced Linux users.
 
-The resource is easily available [online](https://kanishka-developer.github.io/LUGBook/) and on our app.
+The resource is easily available [online](https://kanishka-developer.github.io/LUGBook/) and on our [app](https://github.com/Kanishka-Developer/LUGBook/releases/).
 
 ## Index
 
